@@ -8,6 +8,7 @@ The dashboard uses Pivot Tables, Pivot Charts, slicers, and Excel formulas to pr
 
 
 ## Dashboard Preview
+![Dasboard](sales-dashboard.png)
 
 
 
